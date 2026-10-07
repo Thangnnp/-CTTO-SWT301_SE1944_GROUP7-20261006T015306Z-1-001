@@ -1,0 +1,7 @@
+method_id,project,bug_id,focal_class,focal_method,random_seed,note
+Lang-8,Lang,8,org.apache.commons.lang3.time.FastDatePrinter,appendTo,42,pilot 20% (6/30) - 2 method/project
+Lang-30,Lang,30,org.apache.commons.lang3.StringUtils,containsAny,42,
+Math-2,Math,2,org.apache.commons.math3.distribution.HypergeometricDistribution,getNumericalMean,42,
+Math-27,Math,27,org.apache.commons.math3.fraction.Fraction,percentageValue,42,
+Chart-1,Chart,1,org.jfree.chart.renderer.category.AbstractCategoryItemRenderer,getLegendItems,42,
+Chart-19,Chart,19,org.jfree.chart.plot.CategoryPlot,getDomainAxisIndex,42,

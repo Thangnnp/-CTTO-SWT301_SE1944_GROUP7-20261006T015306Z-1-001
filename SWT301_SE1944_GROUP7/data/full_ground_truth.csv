@@ -1,0 +1,31 @@
+method_id,project,bug_id,focal_class,focal_method,verified,ground_truth_source
+Lang-8,Lang,8,org.apache.commons.lang3.time.FastDatePrinter,appendTo,True,Defects4J v2.0.0 fixed source
+Lang-10,Lang,10,org.apache.commons.lang3.time.FastDateParser,escapeRegex,True,Defects4J v2.0.0 fixed source
+Lang-19,Lang,19,org.apache.commons.lang3.text.translate.NumericEntityUnescaper,translate,True,Defects4J v2.0.0 fixed source
+Lang-22,Lang,22,org.apache.commons.lang3.math.Fraction,greatestCommonDivisor,True,Defects4J v2.0.0 fixed source
+Lang-26,Lang,26,org.apache.commons.lang3.time.FastDateFormat,format(Date),True,Defects4J v2.0.0 fixed source
+Lang-30,Lang,30,org.apache.commons.lang3.StringUtils,containsAny,True,Defects4J v2.0.0 fixed source
+Lang-41,Lang,41,org.apache.commons.lang3.ClassUtils,getPackageName,True,Defects4J v2.0.0 fixed source
+Lang-42,Lang,42,org.apache.commons.lang3.Entities,escape,True,Defects4J v2.0.0 fixed source
+Lang-57,Lang,57,org.apache.commons.lang3.LocaleUtils,isAvailableLocale,True,Defects4J v2.0.0 fixed source
+Lang-60,Lang,60,org.apache.commons.lang3.text.StrBuilder,contains(char),True,Defects4J v2.0.0 fixed source
+Math-2,Math,2,org.apache.commons.math3.distribution.HypergeometricDistribution,getNumericalMean,True,Defects4J v2.0.0 fixed source
+Math-9,Math,9,org.apache.commons.math3.geometry.euclidean.threed.Line,revert,True,Defects4J v2.0.0 fixed source
+Math-27,Math,27,org.apache.commons.math3.fraction.Fraction,percentageValue,True,Defects4J v2.0.0 fixed source
+Math-53,Math,53,org.apache.commons.math.complex.Complex,add,True,Defects4J v2.0.0 fixed source
+Math-55,Math,55,org.apache.commons.math.geometry.Vector3D,crossProduct,True,Defects4J v2.0.0 fixed source
+Math-59,Math,59,org.apache.commons.math.util.FastMath,max(float,float),True,Defects4J v2.0.0 fixed source
+Math-63,Math,63,org.apache.commons.math.util.MathUtils,equals(double,double),True,Defects4J v2.0.0 fixed source
+Math-70,Math,70,org.apache.commons.math.analysis.solvers.BisectionSolver,solve(4-arg),True,Defects4J v2.0.0 fixed source
+Math-75,Math,75,org.apache.commons.math.stat.Frequency,getPct(Object),True,Defects4J v2.0.0 fixed source
+Math-79,Math,79,org.apache.commons.math.util.MathUtils,distance(int[] int[]),True,Defects4J v2.0.0 fixed source
+Chart-1,Chart,1,org.jfree.chart.renderer.category.AbstractCategoryItemRenderer,getLegendItems,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-10,Chart,10,org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator,generateToolTipFragment,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-11,Chart,11,org.jfree.chart.util.ShapeUtilities,equal(GeneralPath GeneralPath),True,Defects4J v2.0.0 verified (jcommon/jfreechart pickaxe + src.patch)
+Chart-15,Chart,15,org.jfree.chart.plot.PiePlot,getMaximumExplodePercent,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-17,Chart,17,org.jfree.data.time.TimeSeries,clone,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-19,Chart,19,org.jfree.chart.plot.CategoryPlot,getDomainAxisIndex,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-21,Chart,21,org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset,updateBounds,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-22,Chart,22,org.jfree.data.KeyedObjects2D,removeRow,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-23,Chart,23,org.jfree.chart.renderer.category.MinMaxCategoryRenderer,equals,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)
+Chart-24,Chart,24,org.jfree.chart.renderer.GrayPaintScale,getPaint,True,Defects4J v2.0.0 verified (jfreechart pickaxe + src.patch)

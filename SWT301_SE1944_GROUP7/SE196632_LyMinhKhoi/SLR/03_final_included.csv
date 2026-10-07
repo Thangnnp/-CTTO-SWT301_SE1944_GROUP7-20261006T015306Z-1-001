@@ -1,0 +1,6 @@
+Id,Title,Author,Year,Venue,Source,Search_Strings,v1_decision,v1_reason,v2_decision,v2_reason
+1,An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation,Frank Tip et al.,2025,ArXiv,CORE,String A,INCLUDE,Passes all screening criteria,ACCEPTED,Primary paper for data extraction
+8,CoverUp: Coverage-Guided LLM-Based Test Generation,EMERYD. BERGE,2025,ArXiv,CORE,String A,INCLUDE,Passes initial screening for full-text review,ACCEPTED,Meets all full-text criteria for Java unit testing
+15,LLMs for Automated Unit Test Generation and Assessment in Java: The AGONETEST Framework,Andrea Lops,2025,ArXiv,CORE,String B,INCLUDE,Passes initial screening for full-text review,ACCEPTED,Meets all full-text criteria for Python mutation testing
+16,Mutation-Guided Unit Test Generation with a Large Language Model,Guancheng Wang,2025,ArXiv,CORE,String B,INCLUDE,Passes screening for unit test generation focus,ACCEPTED,Meets all criteria for codebase test quality analysis
+17,ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,Yutian Tang,2023,ArXiv,CORE,String B,INCLUDE,Passes screening for edge case test metric analysis,ACCEPTED,Meets all criteria for Python edge case unit testing

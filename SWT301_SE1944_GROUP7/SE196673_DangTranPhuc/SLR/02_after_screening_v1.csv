@@ -1,0 +1,83 @@
+﻿Id,Title,Author,Year,Venue,Search_Strings,v1_decision,v1_reason
+1,Test Intention Guided LLM-Based Unit Test Generation,"Nan, Zifan; Guo, Zhaoqiang; Liu, Kui; Xia, Xin",2025,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+2,Combining Type Inference and Automated Unit Test Generation for Python,"Krodinger, Thomas; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+3,STRUT: Structured Seed Case Guided Unit Test Generation for C Programs Using LLMs,"Liu, Xu; et al.",2025,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+4,ASTER: Natural and Multi-Language Unit Test Generation with LLMs,"Pan, Yiling; et al.",2024,Semantic Scholar,String A,EXCLUDE,EC-D
+5,Multi-language Unit Test Generation using LLMs,"Pan, Yiling; et al.",2024,Semantic Scholar,String A,EXCLUDE,EC-D
+6,HITS: High-Coverage LLM-Based Unit Test Generation via Method Slicing,"Wang, Zejun; et al.",2024,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+7,Seed and Steer: Guiding LLMs with Branch Signals for Unit Test Generation,"Zhou, Yi; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+8,Pynguin: Automated Unit Test Generation for Python,"Lukasczyk, Stephan; et al.",2022,Semantic Scholar,String A,EXCLUDE,EC-D
+9,Navigating the Labyrinth: Path-Sensitive Unit Test Generation with LLMs,"Liao, Wei; et al.",2025,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+10,LSPAI: IDE Plugin for LLM-Powered Unit Test Generation,"Go, Seongmin; et al.",2025,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+11,Benchmarking LLMs for Unit Test Generation from Real-World Functions,"Huang, Junjie; et al.",2026,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+12,Kotsuite: Unit Test Generation for Kotlin/Android,"Yang, Kai; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-O
+13,LSPRAG: LSP-Guided RAG for Unit Test Generation,"Go, Seongmin; et al.",2025,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+14,An empirical study of automated unit test generation for Python,"Lukasczyk, Stephan; et al.",2021,Semantic Scholar,String A,EXCLUDE,EC-D
+15,LLM-based Mockless Unit Test Generation for Java,"Xu, Zheng; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+16,Coverage Goal Selector for Search-Based Unit Test Generation,"Zhou, Yi; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+17,NxtUnit: Automated Unit Test Generation for Go,"Wang, Zejun; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+18,Code-Aware Prompting: Coverage-Guided Test Generation using LLM,"Ryan, Max; et al.",2024,Semantic Scholar,String A,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+19,Selectively Combining Multiple Coverage Goals in Search-Based Unit Test,"Zhou, Yi; et al.",2022,Semantic Scholar,String A,EXCLUDE,EC-D
+20,A Python Unit Test Generation Method Based on Fine-Tuned Language Models and Coverage,"Liu, Xu; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-O
+21,Repository-Level Unit Test Generation with LLMs,"Yin, Wei; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-O
+22,Automatic Unit Test Generation for Programming Assignments Using LLMs,"Zheng, Kaisheng; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+23,EvoGPT: Evolutionary LLM for Unit Test Generation,"Broide, Nir; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+24,LLM-Generated Tests with Context-Aware Code Representation,"Walczak, Pawel; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+25,Few-Shot Testers: LLMs for Bug Reproduction,"Kang, Sungmin; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+26,SBFT Tool Competition 2025 - Unit Test Generation Track,"Kifetew, Fitsum; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+27,Hallucination to Consensus: Multi-Agent JUnit Generation,"Xu, Zheng; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+28,File-Level CoT for Unit Test Generation,"Hua, Ziyue; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+29,SPARCC: Scenario Planning and Coverage for C Code,"Chowdhury, Ariful; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+30,Differential Prompting for Test Generation,"Li, Linyuan; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+31,QuixBugs Test Generation with LLMs,"Li, Linyuan; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+32,In-Context Semantic Learning for Test Generation,"Yang, Ke; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+33,JMH Microbenchmark Generation with LLMs,"Jangali, Riya; et al.",2023,Semantic Scholar,String A,EXCLUDE,EC-D
+34,Domain Adaptation for Code Model-Based Test Generation,"Shin, Donghwan; et al.",2024,Semantic Scholar,String A,EXCLUDE,EC-D
+35,Fine-Tuning LLMs for Unit Test Generation,"Storhaug, Anders; et al.",2024,Semantic Scholar,String A,EXCLUDE,EC-D
+36,Performance Enhancement in LLM Unit Testing,"Li, Zhiqiang; et al.",2024,Semantic Scholar,String A,EXCLUDE,EC-D
+37,TOGLL: Test Oracle Generation with LLMs,"Hossain, Soneya Binta; et al.",2025,Semantic Scholar,String A,EXCLUDE,EC-D
+38,LLM-Based Test Generation Under Software Evolution,"Haroon, Muhammad; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+39,TAMEval: Evaluating LLMs for Automated Maintenance,"Bruches, Eric; et al.",2026,Semantic Scholar,String A,EXCLUDE,EC-D
+40,GEM: Strengthening LLM-Generated Unit Tests Using Mutation Feedback,"Authors, et al.",2024,Semantic Scholar,String B,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+41,An initial investigation of ChatGPT unit test generation capability,"Guilherme, Andre; et al.",2023,Semantic Scholar,String B,EXCLUDE,EC-D
+42,Multi-language Unit Test Generation using LLMs (duplicate),"Pan, Yiling; et al.",2024,Semantic Scholar,String B,EXCLUDE,EC-D
+43,Mutation-Guided Unit Test Generation With a Large Language Model,"Wang, Zejun; et al.",2026,Semantic Scholar,String C,EXCLUDE,EC-D
+44,Test Wars: SBST vs Symbolic vs LLM-Based Approaches,"Abdullin, Artur; et al.",2025,Semantic Scholar,String C,EXCLUDE,EC-D
+45,LLMs for Automated Unit Test Generation in Java: AgoneTest,"Lops, Andrea; et al.",2025,Semantic Scholar,String C,EXCLUDE,EC-D
+46,Mutation-Guided LLM-Based Test Generation at Meta,"Harman, Mark; et al.",2025,Semantic Scholar,String C,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+47,GenFair: Systematic Test Generation for Fairness Fault Detection,"Authors, et al.",2024,Semantic Scholar,String C,EXCLUDE,EC-D
+48,An initial investigation of ChatGPT unit test generation (duplicate),"Guilherme, Andre; et al.",2023,Semantic Scholar,String C,EXCLUDE,EC-D
+49,GEM: Strengthening LLM-Generated Unit Tests (duplicate),"Authors, et al.",2024,Semantic Scholar,String C,EXCLUDE,EC-D
+50,AI-Powered Unit Test Generation via Multi-LLM Chaining,"Kumar, Chandan; et al.",2025,Semantic Scholar,String C,EXCLUDE,EC-D
+51,Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation,"Chang, Yu; et al.",2026,Semantic Scholar,String C,EXCLUDE,EC-D
+52,Effective Test Generation Using Pre-trained LLMs and Mutation Testing,"Dakhel, Arghavan; et al.",2024,Semantic Scholar,String C,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+53,Advancing Bug Detection in Fastjson2 with LLMs Unit Test Generation,"Authors, et al.",2025,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+54,"Large Language Models for Unit Test Generation: Achievements, Challenges, Opportunities","Authors, et al.",2024,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+55,ChatGPT vs SBST: Comparative Assessment of Unit Test Suite Generation,"Authors, et al.",2024,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+56,RESTTestBench: Benchmark for LLM-Generated REST API Test Cases,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+57,LLM-Aided Workload Generation for Silent Data Corruptions,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+58,Evaluating LLM-Based Test Generation Under Software Evolution (duplicate),"Haroon, Muhammad; et al.",2026,Semantic Scholar,String D,EXCLUDE,EC-D
+59,Test smells in LLM-Generated Unit Tests (duplicate),"Ouedraogo, Wendkuuni; et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+60,Mutation Testing via Iterative LLM-Driven Scientific Debugging,"Authors, et al.",2025,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+61,Static and Dynamic Comparison of Mutation Testing Tools for Python,"Authors, et al.",2024,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+62,MIST-RL: Mutation-based Incremental Suite Testing via Reinforcement Learning,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+63,AsmRAG: LLM-Driven Malware Detection,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+64,A Novel Real Coded Genetic Algorithm for Software Mutation Testing,"Authors, et al.",2023,Semantic Scholar,String D,EXCLUDE,EC-D
+65,A Large-Scale Empirical Study on Fine-Tuning LLMs for Unit Testing,"Authors, et al.",2025,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+66,Hybrid Multi-level Crossover for Unit Test Case Generation,"Authors, et al.",2023,Semantic Scholar,String D,EXCLUDE,EC-D
+67,Boosting LLMs for Mutation Generation,"Authors, et al.",2025,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+68,A Model-Based Test Script Generation for Embedded Software,"Authors, et al.",2023,Semantic Scholar,String D,EXCLUDE,EC-D
+69,An Evaluation Framework for Software Unit Tests Generated by LLMs (duplicate),"Nguyen, Steven; et al.",2025,Semantic Scholar,String D,EXCLUDE,EC-D
+70,Do LLMs Generate Test Oracles That Capture Actual or Expected Behaviour?,"Authors, et al.",2025,Semantic Scholar,String D,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+71,An Empirical Evaluation of System-Level Test Effectiveness for Safety-Critical Software,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+72,Integrated Anomaly Detection in Automated Cloud Data Engineering,"Authors, et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+73,Reward Model for Run-Free LLM Test Evaluation,"Bruches, Eric; et al.",2026,Semantic Scholar,String D,EXCLUDE,EC-D
+74,TestForge: Feedback-Driven Agentic Unit Test Generation,"Jain, Anmol; et al.",2025,Semantic Scholar,String D,EXCLUDE,EC-D
+75,Equivalent Mutant Detection with LLMs,"Tian, Zhao; et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+76,Empirical Evaluation of LLM Unit Test Generation,"Schafer, Max; et al.",2024,Semantic Scholar,String D,EXCLUDE,EC-D
+77,MultiFileTest: Multi-File-Level LLM Unit Test Generation Benchmark,"Authors, et al.",2025,Semantic Scholar,String E,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+78,Examination of Code Generated by Large Language Models,"Authors, et al.",2024,Semantic Scholar,String E,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+79,LLMs as Test Generators: A Comparative Benchmarking Study,"Silva, Pedro; et al.",2025,Semantic Scholar,String E,INCLUDE,"IC-L, IC-Y, IC-T, IC-P, IC-I, IC-E"
+80,Seed and Steer (duplicate),"Zhou, Yi; et al.",2025,Semantic Scholar,String E,EXCLUDE,EC-D
+81,STRUT (duplicate),"Liu, Xu; et al.",2025,Semantic Scholar,String E,EXCLUDE,EC-D
+82,Evaluating LLM-Generated Unit Tests with Mutation Testing: ChatGPT vs DeepSeek,"Cabral, Pedro; et al.",2025,Semantic Scholar,String E,EXCLUDE,EC-D

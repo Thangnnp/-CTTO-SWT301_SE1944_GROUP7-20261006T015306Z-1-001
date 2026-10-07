@@ -1,0 +1,5 @@
+RQ,metric,test,statistic,p_value,effect_size,N,conclusion
+RQ1,Line Coverage,Kruskal-Wallis,H=17.072,0.0006832,"gpt-5.5 > deepseek Cliff d=0.420 (medium); chỉ cặp này qua Bonferroni",60 files/model (240),"Khác biệt có ý nghĩa: gpt-5.5-instant coverage cao nhất, deepseek thấp nhất"
+RQ2,Branch Coverage,Kruskal-Wallis,H=16.308,0.0009803,"gpt-5.5 > deepseek Cliff d=0.401 (medium)",60 files/model (240),"Khác biệt có ý nghĩa: cùng dạng RQ1 (gpt-5.5 > deepseek)"
+RQ3,Test Smell Density,Kruskal-Wallis,H=57.439,2.071e-12,"gpt-5.5 vs gemini d=0.483 (large); gpt-5.5/llama nhiều smell hơn gemini/deepseek",60 files/model (240),"Khác biệt rất mạnh: gemini ~0 smell, gpt-5.5 & llama nhiều smell nhất"
+RQ4,Few-shot vs Zero-shot,Wilcoxon signed-rank,W=91.0 (smells pooled),1.294e-09,"Few-shot GIẢM smell mạnh (gpt p=2.5e-6, llama p=8.2e-6); coverage không đổi (line pooled p=0.250, branch p=0.993)",30 cặp/model,"Few-shot cải thiện smell có ý nghĩa; không cải thiện coverage"

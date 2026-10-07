@@ -1,0 +1,67 @@
+# Pilot API Log — Groq Llama-3.3-70B (llama-3.3-70b-versatile)
+# Nguồn: results/PILOT_RESULTS.md — chạy tay qua Groq Playground (console.groq.com).
+# Tham số: temperature=0, top_p=1, max_completion_tokens=1024.
+# cost/call = $0.00 (free tier). Không có timestamp per-call (chạy manual UI) — dùng latency + tokens/s ghi từ Playground.
+# Trung bình: latency 0.78s (0.29–1.43s), throughput 538 tokens/s (310–720). Không gặp rate-limit.
+# Định dạng: [#] method condition | model | latency_s | tokens/s | cost
+
+[1] Lang-8 C1 | llama-3.3-70b-versatile | 1.228s | 495 t/s | $0.00
+[2] Lang-8 C2 | llama-3.3-70b-versatile | 1.035s | 580 t/s | $0.00
+[3] Lang-10 C1 | llama-3.3-70b-versatile | 0.996s | 462 t/s | $0.00
+[4] Lang-10 C2 | llama-3.3-70b-versatile | 0.983s | 505 t/s | $0.00
+[5] Lang-19 C1 | llama-3.3-70b-versatile | 1.068s | 535 t/s | $0.00
+[6] Lang-19 C2 | llama-3.3-70b-versatile | 1.220s | 522 t/s | $0.00
+[7] Lang-22 C1 | llama-3.3-70b-versatile | 1.062s | 559 t/s | $0.00
+[8] Lang-22 C2 | llama-3.3-70b-versatile | 0.481s | 507 t/s | $0.00
+[9] Lang-26 C1 | llama-3.3-70b-versatile | 0.787s | 352 t/s | $0.00
+[10] Lang-26 C2 | llama-3.3-70b-versatile | 0.509s | 486 t/s | $0.00
+[11] Lang-30 C1 | llama-3.3-70b-versatile | 0.914s | 476 t/s | $0.00
+[12] Lang-30 C2 | llama-3.3-70b-versatile | 0.658s | 463 t/s | $0.00
+[13] Lang-41 C1 | llama-3.3-70b-versatile | 0.487s | 712 t/s | $0.00
+[14] Lang-41 C2 | llama-3.3-70b-versatile | 0.382s | 436 t/s | $0.00
+[15] Lang-42 C1 | llama-3.3-70b-versatile | 0.818s | 481 t/s | $0.00
+[16] Lang-42 C2 | llama-3.3-70b-versatile | 0.812s | 397 t/s | $0.00
+[17] Lang-57 C1 | llama-3.3-70b-versatile | 0.286s | 547 t/s | $0.00
+[18] Lang-57 C2 | llama-3.3-70b-versatile | 0.345s | 559 t/s | $0.00
+[19] Lang-60 C1 | llama-3.3-70b-versatile | 0.643s | 374 t/s | $0.00
+[20] Lang-60 C2 | llama-3.3-70b-versatile | 0.489s | 589 t/s | $0.00
+[21] Math-2 C1 | llama-3.3-70b-versatile | 0.825s | 658 t/s | $0.00
+[22] Math-2 C2 | llama-3.3-70b-versatile | 0.896s | 720 t/s | $0.00
+[23] Math-9 C1 | llama-3.3-70b-versatile | 0.890s | 310 t/s | $0.00
+[24] Math-9 C2 | llama-3.3-70b-versatile | 0.707s | 635 t/s | $0.00
+[25] Math-27 C1 | llama-3.3-70b-versatile | 0.387s | 660 t/s | $0.00
+[26] Math-27 C2 | llama-3.3-70b-versatile | 0.391s | 674 t/s | $0.00
+[27] Math-53 C1 | llama-3.3-70b-versatile | 0.603s | 552 t/s | $0.00
+[28] Math-53 C2 | llama-3.3-70b-versatile | 0.446s | 540 t/s | $0.00
+[29] Math-55 C1 | llama-3.3-70b-versatile | 0.847s | 659 t/s | $0.00
+[30] Math-55 C2 | llama-3.3-70b-versatile | 0.879s | 651 t/s | $0.00
+[31] Math-59 C1 | llama-3.3-70b-versatile | 0.763s | 537 t/s | $0.00
+[32] Math-59 C2 | llama-3.3-70b-versatile | 0.562s | 488 t/s | $0.00
+[33] Math-63 C1 | llama-3.3-70b-versatile | 0.815s | 336 t/s | $0.00
+[34] Math-63 C2 | llama-3.3-70b-versatile | 0.567s | 662 t/s | $0.00
+[35] Math-70 C1 | llama-3.3-70b-versatile | 0.898s | 527 t/s | $0.00
+[36] Math-70 C2 | llama-3.3-70b-versatile | 0.712s | 435 t/s | $0.00
+[37] Math-75 C1 | llama-3.3-70b-versatile | 0.589s | 338 t/s | $0.00
+[38] Math-75 C2 | llama-3.3-70b-versatile | 0.721s | 397 t/s | $0.00
+[39] Math-79 C1 | llama-3.3-70b-versatile | 0.737s | 499 t/s | $0.00
+[40] Math-79 C2 | llama-3.3-70b-versatile | 0.600s | 518 t/s | $0.00
+[41] Chart-1 C1 | llama-3.3-70b-versatile | 1.224s | 530 t/s | $0.00
+[42] Chart-1 C2 | llama-3.3-70b-versatile | 0.774s | 715 t/s | $0.00
+[43] Chart-10 C1 | llama-3.3-70b-versatile | 0.537s | 510 t/s | $0.00
+[44] Chart-10 C2 | llama-3.3-70b-versatile | 0.354s | 528 t/s | $0.00
+[45] Chart-11 C1 | llama-3.3-70b-versatile | 0.912s | 715 t/s | $0.00
+[46] Chart-11 C2 | llama-3.3-70b-versatile | 0.771s | 647 t/s | $0.00
+[47] Chart-15 C1 | llama-3.3-70b-versatile | 0.844s | 706 t/s | $0.00
+[48] Chart-15 C2 | llama-3.3-70b-versatile | 0.953s | 570 t/s | $0.00
+[49] Chart-17 C1 | llama-3.3-70b-versatile | 1.112s | 524 t/s | $0.00
+[50] Chart-17 C2 | llama-3.3-70b-versatile | 0.810s | 428 t/s | $0.00
+[51] Chart-19 C1 | llama-3.3-70b-versatile | 0.638s | 576 t/s | $0.00
+[52] Chart-19 C2 | llama-3.3-70b-versatile | 1.162s | 635 t/s | $0.00
+[53] Chart-21 C1 | llama-3.3-70b-versatile | 1.432s | 570 t/s | $0.00
+[54] Chart-21 C2 | llama-3.3-70b-versatile | 1.205s | 578 t/s | $0.00
+[55] Chart-22 C1 | llama-3.3-70b-versatile | 0.571s | 578 t/s | $0.00
+[56] Chart-22 C2 | llama-3.3-70b-versatile | 0.656s | 439 t/s | $0.00
+[57] Chart-23 C1 | llama-3.3-70b-versatile | 0.953s | 500 t/s | $0.00
+[58] Chart-23 C2 | llama-3.3-70b-versatile | 0.851s | 534 t/s | $0.00
+[59] Chart-24 C1 | llama-3.3-70b-versatile | 0.838s | 606 t/s | $0.00
+[60] Chart-24 C2 | llama-3.3-70b-versatile | 0.967s | 533 t/s | $0.00
